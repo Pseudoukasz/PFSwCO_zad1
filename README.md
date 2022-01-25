@@ -1,9 +1,9 @@
-#zad1
+# zad1
 
 ## Aplikacja na bazie lab9.
 
 ## Modyfikacje
-- podpiie plikow js do odpowiednich sciezek, tworzenie zalznosci
+- podpiecie plikow js do odpowiednich sciezek, tworzenie zalznosci
 - dodanie histori wprowadzanych indexow
 - utworzenie dokumentacji
 
